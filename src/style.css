@@ -1,0 +1,19 @@
+.date-picker-container {
+    width: 450px;
+    margin: auto;
+    border: solid 2px darkslategray;
+    padding: 20px;
+}
+
+.date-picker-container h3 {
+    font-size: 20px;
+    margin: 0 0 10px 0;
+    color: darkslategray
+}
+
+.date-picker-container #date-range {
+    font-size: 14px;
+    font-weight: bold;
+    color: darkslategray;
+    margin-left: 20px;
+}
